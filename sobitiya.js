@@ -1,0 +1,1 @@
+startButton.onclick = startGame;//событие - началао игры
